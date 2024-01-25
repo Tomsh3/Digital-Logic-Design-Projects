@@ -4,5 +4,5 @@ List of the projects:
   * Pocket dictionary: an implementation of Fano-Elias encoding
   * Approximate membership and a simple cache
 
-In eah file there is 'README' file with more details about each project.
+In each file there is a 'README' file with more details about each project.
 All the projects were made in 'Logisim' software.
